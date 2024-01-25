@@ -23,3 +23,9 @@ this application is its dynamic dialog box for adding cities and its straightfor
 **1) Adding a City:** Tap on the 'plus' button. In the dialog box that appears, Add the city name and province, then click 'Add'.
 
 **2) Editing a City:** Tap on a city from the list to open the edit dialog. Edit the city name and province as needed and click 'Add'.
+
+## Application Demo Video ##
+https://github.com/andrew786e/ListyCity/assets/74216051/48817a5e-88a7-4299-8d4b-6133227d0e86
+
+
+
