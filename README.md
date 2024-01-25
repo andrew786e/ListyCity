@@ -1,4 +1,4 @@
-# CityLister App #
+# ListyCity App #
 CityLister is a simple, user-friendly Android application developed using Java in Android Studio. This app provides an intuitive interface for 
 managing a list of cities. Users can effortlessly add new cities, as well as edit from the list. The key feature of 
 this application is its dynamic dialog box for adding cities and its straightforward list interaction for editing city details.
